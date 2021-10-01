@@ -16,9 +16,7 @@
 <summary><b>메인 페이지</b></summary>
 <div markdown="1">
 
-</br>
 <figure>
-    <div><b><i>■ Main Page</i></b></div>
     <img src="/README_IMG/main.gif" alt="main" width="70%" height="auto" />    
 </figure>
 
@@ -31,7 +29,6 @@
 <div markdown="1">
 
 <figure>
-    <div><b><i>■ SignUp</i></b></div>
     <img src="/README_IMG/signup.gif" alt="signup" width="70%" height="auto" />    
 </figure>
 
@@ -43,7 +40,6 @@
 <div markdown="1">
 
 <figure>
-    <div><b><i>■ Login</i></b></div>
     <img src="/README_IMG/login.gif" alt="login" width="70%" height="auto" />    
 </figure>
 
@@ -56,7 +52,6 @@
 <div markdown="1">
 
 <figure>
-    <div><b><i>■ Modify User Info</i></b></div>
     <img src="/README_IMG/modify_info.gif" alt="modify_info" width="70%" height="auto" />    
 </figure>
 
@@ -68,7 +63,6 @@
 <div markdown="1">
 
 <figure>
-    <div><b><i>■ Board Write</i></b></div>
     <img src="/README_IMG/write.gif" alt="write" width="70%" height="auto" />    
 </figure>
 
@@ -81,7 +75,6 @@
 <div markdown="1">
 
 <figure>
-    <div><b><i>■ Board Modify</i></b></div>
     <img src="/README_IMG/modify.gif" alt="modify" width="70%" height="auto" />    
 </figure>
 
@@ -93,7 +86,6 @@
 <div markdown="1">
 
 <figure>
-    <div><b><i>■ Board Remove</i></b></div>
     <img src="/README_IMG/remove.gif" alt="remove" width="70%" height="auto" />    
 </figure>
 
