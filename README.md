@@ -69,6 +69,16 @@
 </div>
 </details>
 
+<details>
+<summary><b>게시글 조회</b></summary>
+<div markdown="1">
+
+<figure>
+    <img src="/README_IMG/read.gif" alt="read" width="70%" height="auto" />    
+</figure>
+
+</div>
+</details>
 
 <details>
 <summary><b>게시글 수정</b></summary>
