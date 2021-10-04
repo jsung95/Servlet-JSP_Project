@@ -17,7 +17,7 @@
 <div markdown="1">
 
 <figure>
-    <img src="/README_IMG/main.gif" alt="main" width="70%" height="auto" />    
+    <img src="https://cdn.jsdelivr.net/gh/jsung95/Servlet-JSP_Project_Use-template/README_IMG/main.gif" alt="main" width="70%" height="auto" />    
 </figure>
 
 </div>
@@ -29,7 +29,7 @@
 <div markdown="1">
 
 <figure>
-    <img src="/README_IMG/signup.gif" alt="signup" width="70%" height="auto" />    
+    <img src="https://cdn.jsdelivr.net/gh/jsung95/Servlet-JSP_Project_Use-template/README_IMG/signup.gif" alt="signup" width="70%" height="auto" />    
 </figure>
 
 </div>
@@ -40,7 +40,7 @@
 <div markdown="1">
 
 <figure>
-    <img src="/README_IMG/login.gif" alt="login" width="70%" height="auto" />    
+    <img src="https://cdn.jsdelivr.net/gh/jsung95/Servlet-JSP_Project_Use-template/README_IMG/login.gif" alt="login" width="70%" height="auto" />    
 </figure>
 
 </div>
@@ -52,7 +52,7 @@
 <div markdown="1">
 
 <figure>
-    <img src="/README_IMG/modify_info.gif" alt="modify_info" width="70%" height="auto" />    
+    <img src="https://cdn.jsdelivr.net/gh/jsung95/Servlet-JSP_Project_Use-template/README_IMG/modify_info.gif" alt="modify_info" width="70%" height="auto" />    
 </figure>
 
 </div>
@@ -63,7 +63,7 @@
 <div markdown="1">
 
 <figure>
-    <img src="/README_IMG/write.gif" alt="write" width="70%" height="auto" />    
+    <img src="https://cdn.jsdelivr.net/gh/jsung95/Servlet-JSP_Project_Use-template/README_IMG/write.gif" alt="write" width="70%" height="auto" />    
 </figure>
 
 </div>
@@ -74,7 +74,7 @@
 <div markdown="1">
 
 <figure>
-    <img src="/README_IMG/read.gif" alt="read" width="70%" height="auto" />    
+    <img src="https://cdn.jsdelivr.net/gh/jsung95/Servlet-JSP_Project_Use-template/README_IMG/read.gif" alt="read" width="70%" height="auto" />    
 </figure>
 
 </div>
@@ -85,7 +85,7 @@
 <div markdown="1">
 
 <figure>
-    <img src="/README_IMG/modify.gif" alt="modify" width="70%" height="auto" />    
+    <img src="https://cdn.jsdelivr.net/gh/jsung95/Servlet-JSP_Project_Use-template/README_IMG/modify.gif" alt="modify" width="70%" height="auto" />    
 </figure>
 
 </div>
@@ -96,7 +96,7 @@
 <div markdown="1">
 
 <figure>
-    <img src="/README_IMG/remove.gif" alt="remove" width="70%" height="auto" />    
+    <img src="https://cdn.jsdelivr.net/gh/jsung95/Servlet-JSP_Project_Use-template/README_IMG/remove.gif" alt="remove" width="70%" height="auto" />    
 </figure>
 
 </div>
