@@ -17,7 +17,7 @@
 <div markdown="1">
 
 <figure>
-    <img src="https://cdn.jsdelivr.net/gh/jsung95/Servlet-JSP_Project_Use-template/README_IMG/main.gif" alt="main" width="70%" height="auto" />    
+    <img src="/README_IMG/main.gif" alt="main" width="70%" height="auto" />    
 </figure>
 
 </div>
